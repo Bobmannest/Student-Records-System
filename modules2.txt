@@ -1,0 +1,5 @@
+CSC3001 10 Artificial_Intelligence
+CSC3002 15 Machine_Learning
+CSC3003 20 Software_Engineering
+CSC3004 15 Computer_Graphics
+CSC3005 10 Cyber_Security

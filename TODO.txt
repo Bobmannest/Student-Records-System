@@ -1,0 +1,12 @@
+TODO
+- DONE: Put text file data for grades.txt into 2D vectors with each element(seperated by white space in the text file) as a string
+- DONE: Output text to display Student_id(DONE), term_code(DONE), module_code(DONE), mark(DONE)
+- DONE: Put text file data for modules.txt and requests.txt into maps with each element
+(seperated by white space in the text file) as a string
+- DONE: Output text to display credit, module_name
+- DONE: Modify output text to display data which takes requests.txt into account
+- DONE: Fix: make so that module_codes, module_names, credits, marks are displayed in a for loop and not every line
+- DONE: Output term averages(DONE) and overall averages(DONE)(Term Average = sum (mark * credit) / sum (credit))
+- DONE: Use classes
+
+- Fix: Output format breaks if first student_id has a request specified

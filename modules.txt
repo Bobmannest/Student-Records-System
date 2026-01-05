@@ -1,0 +1,3 @@
+CSC1024 15 Java_Programming
+CSC1027 15 Data_Structures
+CSC1025 20 Databases
